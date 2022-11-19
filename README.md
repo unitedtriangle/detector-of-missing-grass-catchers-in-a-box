@@ -1,1 +1,1 @@
-# detector-of-missing-grass-catchers-in-a-box
+Detect missing grass catchers in a box when packing lawn mowers.
